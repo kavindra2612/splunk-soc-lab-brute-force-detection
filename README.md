@@ -7,6 +7,13 @@ A brute-force attack was simulated using Hydra against a Windows Server. Securit
 
 ---
 
+## 📄 Project Presentation
+
+You can view the presentation here:  
+🔗 [Splunk SOC Lab Presentation (PDF)](./Splunk-SOC-Lab.pdf)
+
+---
+
 ## Project Objectives
 
 - Simulate a brute-force attack
