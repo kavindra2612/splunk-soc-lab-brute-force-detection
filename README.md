@@ -19,7 +19,7 @@ You can view the presentation here:
 ## 📸 Key Detection Screenshots
 
 ### Successful Logon (Event ID 4624)
-![Successful_Logon](./P1.PNG)
+![Successful_Logon](Screenshots/P1.png)
 
 
 ### 🔹 Failed Logon Detection (Event ID 4625)
