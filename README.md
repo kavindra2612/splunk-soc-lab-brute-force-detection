@@ -23,13 +23,13 @@ You can view the presentation here:
 
 
 ### 🔹 Failed Logon Detection (Event ID 4625)
-![Failed Logon](Screenshots/P2.PNG)
+![Failed Logon](Screenshots/P2.png)
 
 ### 🔹 Top 10 Event Codes
-![Top 10 Event Codes](Screenshots/P10.PNG)
+![Top 10 Event Codes](Screenshots/P10.png)
 
 ### 🔹 Security Monitoring Dashboard
-![Dashboard](Screenshots/Dashboard.PNG)
+![Dashboard](Screenshots/Dashboard.png)
 
 ---
 
