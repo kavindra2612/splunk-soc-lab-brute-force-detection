@@ -14,6 +14,24 @@ You can view the presentation here:
 
 ---
 
+---
+
+## 📸 Key Detection Screenshots
+
+### 🔹 Successful Logon (Event ID 4624)
+![Successful Logon](P1.png)
+
+### 🔹 Failed Logon Detection (Event ID 4625)
+![Failed Logon](P2.png)
+
+### 🔹 Top 10 Event Codes
+![Top 10 Event Codes](P10.png)
+
+### 🔹 Security Monitoring Dashboard
+![Dashboard](Dashboard.png)
+
+---
+
 ## Project Objectives
 
 - Simulate a brute-force attack
