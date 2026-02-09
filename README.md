@@ -18,9 +18,9 @@ You can view the presentation here:
 
 ## 📸 Key Detection Screenshots
 
-### 🔹 Successful Logon (Event ID 4624)
+### 🔹 Failed Logon Detection (Event ID 4625)
 
-![Successful Logon](Screenshots/P1.PNG)
+![Failed Logon](Screenshots/P2.PNG)
 
 
 ### 🔹 Failed Logon Detection (Event ID 4625)
