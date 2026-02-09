@@ -22,15 +22,14 @@ You can view the presentation here:
 <img src="Screenshots/P1.png" width="700">
 
 
-### 🔹 Failed Logon Detection (Event ID 4625)
-![Failed Logon](Screenshots/P2.png)
+### Failed Logon – Event ID 4625  
+<img src="Screenshots/P2.png" width="700">
 
-### 🔹 Top 10 Event Codes
-![Top 10 Event Codes](Screenshots/P10.png)
+### Top 10 Event Codes  
+<img src="Screenshots/P10.png" width="700">
 
-### 🔹 Security Monitoring Dashboard
-![Dashboard](Screenshots/Dashboard.png)
-
+### Security Monitoring Dashboard  
+<img src="Screenshots/Dashboard.png" width="700">
 ---
 
 ## Project Objectives
