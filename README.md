@@ -19,16 +19,16 @@ You can view the presentation here:
 ## 📸 Key Detection Screenshots
 
 ### 🔹 Successful Logon (Event ID 4624)
-![Successful Logon](P1.png)
+![Successful Logon](Screenshots/P1.PNG)
 
 ### 🔹 Failed Logon Detection (Event ID 4625)
-![Failed Logon](P2.png)
+![Failed Logon](Screenshots/P2.PNG)
 
 ### 🔹 Top 10 Event Codes
-![Top 10 Event Codes](P10.png)
+![Top 10 Event Codes](Screenshots/P10.PNG)
 
 ### 🔹 Security Monitoring Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](Screenshots/Dashboard.PNG)
 
 ---
 
