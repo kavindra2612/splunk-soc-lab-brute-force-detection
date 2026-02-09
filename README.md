@@ -18,8 +18,8 @@ You can view the presentation here:
 
 ## 📸 Key Detection Screenshots
 
-### Successful Logon (Event ID 4624)
-![Successful_Logon](Screenshots/P1.png)
+### Successful Logon – Event ID 4624  
+<img src="Screenshots/P1.png" width="700">
 
 
 ### 🔹 Failed Logon Detection (Event ID 4625)
